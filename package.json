@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "author": "rtabulov",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "filesize": "^9.0.11",
     "filesize-parser": "^1.5.0",
